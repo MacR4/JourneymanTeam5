@@ -5,48 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"U:/JourneyMan/JourneymanTeam5/JourneymanTeam5/Content/Designers/Kyle/BP_Character/BP_Kyles_Character.uasset",
-				"U:/JourneyMan/JourneymanTeam5/JourneymanTeam5/Content/Designers/Kyle/Blueprints/Structs/PlayerStats.uasset",
-				"U:/JourneyMan/JourneymanTeam5/JourneymanTeam5/Content/Designers/Kyle/Blueprints/DataTables/PlayerStats.uasset",
-				"U:/JourneyMan/JourneymanTeam5/JourneymanTeam5/Content/Designers/Kyle/Blueprints/DataTables/EnemyStats.uasset",
-=======
->>>>>>> Stashed changes
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/GameDev/MatthewG/Jungle_combine.umap",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BP_Ladder.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Models/standardSurface1.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BP_DamagingVolume.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BP_Checkpoint.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/BP_Kyles_Character.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Levels/Jack-TestLevel.umap",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/Input/Actions/IA_Y.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/General/ThirdPerson/Input/Actions/IA_X.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/General/ThirdPerson/Input/Actions/IA_Start.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/General/ThirdPerson/Input/Actions/IA_Select.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/Input/Actions/IA_RT.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/Input/Actions/IA_RB.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/General/ThirdPerson/Input/Actions/IA_Move.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/Input/Actions/IA_LT.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/General/ThirdPerson/Input/Actions/IA_LB.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/Input/Actions/IA_DpadUp.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/Input/Actions/IA_DpadRight.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/General/ThirdPerson/Input/Actions/IA_DpadLeft.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/Input/Actions/IA_DpadDown.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/Input/Actions/IA_B.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/General/ThirdPerson/Input/Actions/IA_A.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/General/ThirdPerson/Input/IMC_Default.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/Input/IMC_Default.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BP_SignPost.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BP_Lever.uasset",
-				"U:/JourneyMan/JourneymanTeam5/JourneymanTeam5/Content/Designers/Kyle/BP_Character/BP_Kyles_Character.uasset",
-				"D:/JourneyMan/JourneymanTeam5/Content/GameDev/MatthewG/Jungle_combine.umap",
-				"D:/JourneyMan/JourneymanTeam5/Content/Designers/Josh/BPP_Test.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Migration Destination/Content/Progammers/Jack/Models/GeometryCollections/Wall_GeometryCollection.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Migration Destination/Content/Progammers/Jack/Levels/Jack-TestLevel.umap",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Migration Destination/Content/General/LevelPrototyping/Materials/MI_Solid_Blue.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Migration Destination/Content/General/LevelPrototyping/Materials/M_Solid.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Migration Destination/Content/Progammers/Jack/Materials/GeometryCollectionMat.uasset",
-				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Migration Destination/Content/Progammers/Jack/Levels/Jack-TestLevel_BuiltData.uasset"
+				"U:/JourneyMan/JourneymanTeam5/JourneymanTeam5/Content/General/ThirdPerson/Blueprints/BP_OLD.uasset"
 			]
 		}
 	]
