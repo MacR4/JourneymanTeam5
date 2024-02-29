@@ -94,3 +94,12 @@ Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
+*.log
+*.ush
+*.ush
+*.ini
+*.log
+*.ush
+Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
