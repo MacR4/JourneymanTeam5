@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"U:/JourneyMan/JourneymanTeam5/Content/General/ThirdPerson/Input/Actions/IA_RightStick.uasset",
+				"U:/JourneyMan/JourneymanTeam5/Content/Designers/Kyle/BP_Character/Input/IMC_Default.uasset",
 				"U:/JourneyMan/JourneymanTeam5/JourneymanTeam5/Content/General/ThirdPerson/Blueprints/BP_OLD.uasset"
 			]
 		}
