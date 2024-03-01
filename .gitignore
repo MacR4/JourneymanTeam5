@@ -108,3 +108,5 @@ Saved/Config/WindowsEditor/Engine.ini
 *.log
 Saved/Logs/JourneymanTeam5-backup-2024.02.28-12.57.17.log
 Saved/Logs/JourneymanTeam5-backup-2024.02.28-16.19.20.log
+*.bin
+*.png
