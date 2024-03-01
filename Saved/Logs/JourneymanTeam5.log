@@ -2893,3 +2893,281 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.03.01-15.11.57:718][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 965 ms (total: 2.09 sec)
 [2024.03.01-15.11.57:731][921]AssetCheck: New page: Asset Save: Jungle_combine
 [2024.03.01-15.11.57:731][921]LogContentValidation: Display: Validating /Script/Engine.World /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine
+[2024.03.01-15.13.07:655][563]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameDev/Alfie/lasers/BP_laserSpawner.BP_laserSpawner
+[2024.03.01-15.13.07:655][563]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-15.13.07:656][563]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-15.13.36:582][554]BlueprintLog: New page: Compile BP_laserSpawner
+[2024.03.01-15.13.36:631][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.03.01-15.13.56:933][724]LogContentBrowser: Deferred new asset file creation: BP_Lever_Child
+[2024.03.01-15.13.56:968][724]LogContentBrowser: Creating deferred item: BP_Lever_Child
+[2024.03.01-15.13.56:981][725]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Lever_Child).
+[2024.03.01-15.14.09:843][161]LogContentBrowser: Attempting asset rename: BP_Lever_Child -> BP_lever_laser_spawn
+[2024.03.01-15.14.09:851][161]LogContentBrowser: End creating deferred item BP_Lever_Child
+[2024.03.01-15.14.09:852][161]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-15.14.11:680][332]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Progammers/Jack/Blueprints/BP_lever_laser_spawn.BP_lever_laser_spawn_C
+[2024.03.01-15.14.11:681][332]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Progammers/Jack/Blueprints/BP_lever_laser_spawn.BP_lever_laser_spawn_C
+[2024.03.01-15.14.11:683][332]LogActorFactory: Actor Factory spawned Blueprint /Game/Progammers/Jack/Blueprints/BP_lever_laser_spawn.BP_lever_laser_spawn as actor: BP_lever_laser_spawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laser_spawn_C_0
+[2024.03.01-15.14.11:685][332]LogActorFactory: Actor Factory spawned Blueprint /Game/Progammers/Jack/Blueprints/BP_lever_laser_spawn.BP_lever_laser_spawn as actor: BP_lever_laser_spawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laser_spawn_C_0
+[2024.03.01-15.14.12:867][429]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Progammers/Jack/Blueprints/BP_lever_laser_spawn.BP_lever_laser_spawn_C
+[2024.03.01-15.14.12:867][429]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Progammers/Jack/Blueprints/BP_lever_laser_spawn.BP_lever_laser_spawn_C
+[2024.03.01-15.14.12:890][429]LogActorFactory: Actor Factory spawned Blueprint /Game/Progammers/Jack/Blueprints/BP_lever_laser_spawn.BP_lever_laser_spawn as actor: BP_lever_laser_spawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laser_spawn_C_1
+[2024.03.01-15.14.12:891][429]LogActorFactory: Actor Factory spawned Blueprint /Game/Progammers/Jack/Blueprints/BP_lever_laser_spawn.BP_lever_laser_spawn as actor: BP_lever_laser_spawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laser_spawn_C_1
+[2024.03.01-15.14.17:325][911]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Progammers/Jack/Blueprints/BP_lever_laser_spawn.BP_lever_laser_spawn
+[2024.03.01-15.14.17:326][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-15.14.17:326][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-15.14.17:395][911]LogViewport: Scene viewport resized to 1141x1028, mode Windowed.
+[2024.03.01-15.14.17:418][912]LogViewport: Scene viewport resized to 1141x1017, mode Windowed.
+[2024.03.01-15.14.17:495][913]LogViewport: Scene viewport resized to 1141x995, mode Windowed.
+[2024.03.01-15.14.31:790][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.03.01-15.14.33:145][436]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.01-15.14.33:223][436]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-15.14.33:223][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.14.33:239][436]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Progammers/Jack/Blueprints/BP_lever_laser_spawn.BP_lever_laser_spawn
+	Asset Type: Blueprint
+[2024.03.01-15.14.33:541][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.03.01-15.14.33:596][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.03.01-15.14.33:616][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.03.01-15.14.33:634][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.03.01-15.14.43:111][498]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever.BP_lever_C
+[2024.03.01-15.14.43:111][498]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever.BP_lever_C
+[2024.03.01-15.14.43:113][498]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever.BP_lever as actor: BP_lever_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_C_1
+[2024.03.01-15.14.43:115][498]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever.BP_lever as actor: BP_lever_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_C_1
+[2024.03.01-15.14.44:186][604]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever.BP_lever_C
+[2024.03.01-15.14.44:186][604]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever.BP_lever_C
+[2024.03.01-15.14.44:209][604]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever.BP_lever as actor: BP_lever_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_C_4
+[2024.03.01-15.14.44:211][604]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever.BP_lever as actor: BP_lever_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_C_4
+[2024.03.01-15.14.46:133][822]Cmd: DELETE
+[2024.03.01-15.14.46:133][822]Cmd: ACTOR DELETE
+[2024.03.01-15.14.46:171][822]LogEditorActor: Deleted Actor: BP_lever_C
+[2024.03.01-15.14.46:204][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.01-15.14.46:206][822]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2024.03.01-15.14.47:973][997]LogContentBrowser: Deferred new asset file creation: BP_lever1
+[2024.03.01-15.14.47:993][997]LogContentBrowser: Creating deferred item: BP_lever1
+[2024.03.01-15.14.48:002][998]LogContentBrowser: Renaming the item being created (Deferred Item: BP_lever1).
+[2024.03.01-15.15.01:635][624]LogContentBrowser: Attempting asset rename: BP_lever1 -> BP_lever_laserSpawn
+[2024.03.01-15.15.01:638][624]LogBlueprint: Error: [AssetLog] /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn: [Compiler] Invalid pin connection from  Array Element  and  Target : Rotator Parent Object Reference is not compatible with BP Lever Laser Spawn Object Reference. (You may have changed the type after the connections were made)
+[2024.03.01-15.15.01:661][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.01-15.15.01:672][624]LogContentBrowser: End creating deferred item BP_lever1
+[2024.03.01-15.15.01:674][624]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-15.15.03:100][779]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn_C
+[2024.03.01-15.15.03:100][779]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn_C
+[2024.03.01-15.15.03:102][779]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn as actor: BP_lever_laserSpawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laserSpawn_C_0
+[2024.03.01-15.15.03:104][779]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn as actor: BP_lever_laserSpawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laserSpawn_C_0
+[2024.03.01-15.15.03:914][858]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn_C
+[2024.03.01-15.15.03:914][858]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn_C
+[2024.03.01-15.15.03:935][858]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn as actor: BP_lever_laserSpawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laserSpawn_C_1
+[2024.03.01-15.15.03:937][858]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn as actor: BP_lever_laserSpawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laserSpawn_C_1
+[2024.03.01-15.15.05:277][996]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn
+[2024.03.01-15.15.05:277][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-15.15.05:277][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-15.15.18:098][956]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.03.01-15.15.31:207][111]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.03.01-15.15.31:212][111]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.03.01-15.16.06:489][835]BlueprintLog: New page: Compile BP_lever_laserSpawn
+[2024.03.01-15.16.06:533][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.03.01-15.16.22:720][564]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn_C
+[2024.03.01-15.16.22:720][564]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn_C
+[2024.03.01-15.16.22:722][564]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn as actor: BP_lever_laserSpawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laserSpawn_C_2
+[2024.03.01-15.16.22:724][564]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn as actor: BP_lever_laserSpawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laserSpawn_C_2
+[2024.03.01-15.16.23:598][635]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn_C
+[2024.03.01-15.16.23:598][635]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn_C
+[2024.03.01-15.16.23:620][635]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn as actor: BP_lever_laserSpawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laserSpawn_C_3
+[2024.03.01-15.16.23:622][635]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn as actor: BP_lever_laserSpawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laserSpawn_C_3
+[2024.03.01-15.16.34:872][812]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn_C
+[2024.03.01-15.16.34:872][812]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn_C
+[2024.03.01-15.16.34:874][812]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn as actor: BP_lever_laserSpawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laserSpawn_C_4
+[2024.03.01-15.16.34:876][812]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn as actor: BP_lever_laserSpawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laserSpawn_C_4
+[2024.03.01-15.16.35:517][864]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn_C
+[2024.03.01-15.16.35:517][864]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn_C
+[2024.03.01-15.16.35:538][864]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn as actor: BP_lever_laserSpawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laserSpawn_C_5
+[2024.03.01-15.16.35:539][864]LogActorFactory: Actor Factory spawned Blueprint /Game/GameDev/Alfie/Jungle_blueprints/BP_lever_laserSpawn.BP_lever_laserSpawn as actor: BP_lever_laserSpawn_C /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine:PersistentLevel.BP_lever_laserSpawn_C_5
+[2024.03.01-15.17.03:198][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-15.17.03:198][733]PIE: New page: PIE session: Jungle_combine (1 Mar 2024, 15:17:03)
+[2024.03.01-15.17.03:220][733]LogPlayLevel: Creating play world package: /Game/GameDev/MatthewG/UEDPIE_0_Jungle_combine
+[2024.03.01-15.17.03:647][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.426757s)
+[2024.03.01-15.17.03:647][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine to /Game/GameDev/MatthewG/UEDPIE_0_Jungle_combine.Jungle_combine (0.426793s)
+[2024.03.01-15.17.03:647][733]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-15.17.03:647][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-15.17.03:647][733]LogAIModule: Creating AISystem for world Jungle_combine
+[2024.03.01-15.17.03:649][733]LogPlayLevel: PIE: World Init took: (0.002260s)
+[2024.03.01-15.17.03:672][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.03.01-15.17.03:673][733]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.03.01-15.17.03:673][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-15.17.03:673][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-15.17.03:673][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-15.17.03:673][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-15.17.03:673][733]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.01-15.17.03:673][733]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.01-15.17.03:673][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.01-15.17.03:673][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-15.17.03:674][733]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-15.17.03:674][733]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-15.17.03:674][733]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-15.17.03:676][733]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.01-15.17.03:692][733]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.01-15.17.03:692][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-15.17.03:692][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-15.17.03:692][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-15.17.03:693][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.03.01-15.17.03:693][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.03.01-15.17.03:694][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.03.01-15.17.03:694][733]LogInit: FAudioDevice initialized with ID 22.
+[2024.03.01-15.17.03:694][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.03.01-15.17.03:694][733]LogAudio: Display: Audio Device (ID: 22) registered with world 'Jungle_combine'.
+[2024.03.01-15.17.03:694][733]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.01-15.17.03:699][733]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.01-15.17.03:778][733]LogWorld: Bringing World /Game/GameDev/MatthewG/UEDPIE_0_Jungle_combine.Jungle_combine up for play (max tick rate 0) at 2024.03.01-15.17.03
+[2024.03.01-15.17.03:779][733]LogWorld: Bringing up level for play took: 0.080434
+[2024.03.01-15.17.03:781][733]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.03.01-15.17.03:786][733]LogBlueprintUserMessages: [Jungle_combine_C_12] Hello
+[2024.03.01-15.17.03:787][733]PIE: Server logged in
+[2024.03.01-15.17.03:787][733]PIE: Play in editor total start time 0.589 seconds.
+[2024.03.01-15.17.11:780][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-15.17.11:780][651]LogWorld: BeginTearingDown for /Game/GameDev/MatthewG/UEDPIE_0_Jungle_combine
+[2024.03.01-15.17.11:782][651]LogWorld: UWorld::CleanupWorld for Jungle_combine, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-15.17.11:792][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.17.11:810][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-15.17.11:816][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.17.11:842][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-15.17.11:843][651]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.01-15.17.11:843][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.01-15.17.11:845][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.01-15.17.11:872][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.03.01-15.17.11:942][652]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.03.01-15.17.14:266][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-15.17.14:266][871]PIE: New page: PIE session: Jungle_combine (1 Mar 2024, 15:17:14)
+[2024.03.01-15.17.14:290][871]LogPlayLevel: Creating play world package: /Game/GameDev/MatthewG/UEDPIE_0_Jungle_combine
+[2024.03.01-15.17.14:723][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.432613s)
+[2024.03.01-15.17.14:723][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine to /Game/GameDev/MatthewG/UEDPIE_0_Jungle_combine.Jungle_combine (0.432647s)
+[2024.03.01-15.17.14:723][871]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-15.17.14:723][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-15.17.14:723][871]LogAIModule: Creating AISystem for world Jungle_combine
+[2024.03.01-15.17.14:725][871]LogPlayLevel: PIE: World Init took: (0.002113s)
+[2024.03.01-15.17.14:748][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.01-15.17.14:750][871]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.03.01-15.17.14:750][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-15.17.14:750][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-15.17.14:750][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-15.17.14:750][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-15.17.14:750][871]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.01-15.17.14:751][871]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.01-15.17.14:751][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.01-15.17.14:751][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-15.17.14:751][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-15.17.14:751][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-15.17.14:751][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-15.17.14:753][871]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.01-15.17.14:769][871]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.01-15.17.14:769][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-15.17.14:769][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-15.17.14:769][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-15.17.14:769][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.03.01-15.17.14:770][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.03.01-15.17.14:771][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.03.01-15.17.14:771][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.03.01-15.17.14:771][871]LogInit: FAudioDevice initialized with ID 23.
+[2024.03.01-15.17.14:771][871]LogAudio: Display: Audio Device (ID: 23) registered with world 'Jungle_combine'.
+[2024.03.01-15.17.14:771][871]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.01-15.17.14:774][871]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.01-15.17.14:847][871]LogWorld: Bringing World /Game/GameDev/MatthewG/UEDPIE_0_Jungle_combine.Jungle_combine up for play (max tick rate 0) at 2024.03.01-15.17.14
+[2024.03.01-15.17.14:848][871]LogWorld: Bringing up level for play took: 0.073681
+[2024.03.01-15.17.14:850][871]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.03.01-15.17.14:855][871]LogBlueprintUserMessages: [Jungle_combine_C_12] Hello
+[2024.03.01-15.17.14:856][871]PIE: Server logged in
+[2024.03.01-15.17.14:856][871]PIE: Play in editor total start time 0.59 seconds.
+[2024.03.01-15.17.22:920][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-15.17.22:920][811]LogWorld: BeginTearingDown for /Game/GameDev/MatthewG/UEDPIE_0_Jungle_combine
+[2024.03.01-15.17.22:921][811]LogWorld: UWorld::CleanupWorld for Jungle_combine, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-15.17.22:933][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.17.22:945][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-15.17.22:951][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.17.22:977][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.01-15.17.22:983][811]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.01-15.17.22:983][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.01-15.17.22:985][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.01-15.17.22:988][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-15.17.23:010][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.03.01-15.17.23:079][812]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.03.01-15.17.27:320][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.01-15.17.27:320][206]PIE: New page: PIE session: Jungle_combine (1 Mar 2024, 15:17:27)
+[2024.03.01-15.17.27:350][206]LogPlayLevel: Creating play world package: /Game/GameDev/MatthewG/UEDPIE_0_Jungle_combine
+[2024.03.01-15.17.27:784][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.434090s)
+[2024.03.01-15.17.27:784][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine to /Game/GameDev/MatthewG/UEDPIE_0_Jungle_combine.Jungle_combine (0.434124s)
+[2024.03.01-15.17.27:784][206]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-15.17.27:784][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.01-15.17.27:785][206]LogAIModule: Creating AISystem for world Jungle_combine
+[2024.03.01-15.17.27:786][206]LogPlayLevel: PIE: World Init took: (0.002288s)
+[2024.03.01-15.17.27:810][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.03.01-15.17.27:812][206]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.03.01-15.17.27:813][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.01-15.17.27:813][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.01-15.17.27:813][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.01-15.17.27:813][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.01-15.17.27:813][206]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.01-15.17.27:813][206]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.01-15.17.27:813][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.01-15.17.27:813][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.01-15.17.27:813][206]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.01-15.17.27:813][206]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.01-15.17.27:813][206]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.01-15.17.27:815][206]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.01-15.17.27:831][206]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.01-15.17.27:831][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.01-15.17.27:831][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.01-15.17.27:831][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.01-15.17.27:831][206]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.03.01-15.17.27:831][206]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.03.01-15.17.27:833][206]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.03.01-15.17.27:833][206]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.03.01-15.17.27:833][206]LogInit: FAudioDevice initialized with ID 24.
+[2024.03.01-15.17.27:833][206]LogAudio: Display: Audio Device (ID: 24) registered with world 'Jungle_combine'.
+[2024.03.01-15.17.27:833][206]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.01-15.17.27:837][206]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.01-15.17.27:911][206]LogWorld: Bringing World /Game/GameDev/MatthewG/UEDPIE_0_Jungle_combine.Jungle_combine up for play (max tick rate 0) at 2024.03.01-15.17.27
+[2024.03.01-15.17.27:912][206]LogWorld: Bringing up level for play took: 0.075879
+[2024.03.01-15.17.27:914][206]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2024.03.01-15.17.27:919][206]LogBlueprintUserMessages: [Jungle_combine_C_12] Hello
+[2024.03.01-15.17.27:919][206]PIE: Server logged in
+[2024.03.01-15.17.27:920][206]PIE: Play in editor total start time 0.6 seconds.
+[2024.03.01-15.17.38:911][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-15.17.38:911][483]LogWorld: BeginTearingDown for /Game/GameDev/MatthewG/UEDPIE_0_Jungle_combine
+[2024.03.01-15.17.38:914][483]LogWorld: UWorld::CleanupWorld for Jungle_combine, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-15.17.38:941][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.17.38:955][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.01-15.17.38:961][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.17.39:001][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.01-15.17.39:012][483]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.01-15.17.39:012][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.01-15.17.39:014][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.01-15.17.39:040][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.03.01-15.17.39:111][484]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2024.03.01-15.18.45:370][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-15.18.45:460][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.03.01-15.18.46:304][185]LogSavePackage: Moving output files for package: /Game/GameDev/MatthewG/Jungle_combine
+[2024.03.01-15.18.46:306][185]LogSavePackage: Moving '../../../../../../Users/C2207339/Documents/GitHub/JourneymanTeam5/Saved/Jungle_combine7D387E54430ACAAF30ACA4A79349CAFE.tmp' to '../../../../../../Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/MatthewG/Jungle_combine.umap'
+[2024.03.01-15.18.46:322][185]LogFileHelpers: Saving map 'Jungle_combine' took 0.896
+[2024.03.01-15.18.46:336][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 966 ms (total: 3.05 sec)
+[2024.03.01-15.18.46:341][185]AssetCheck: New page: Asset Save: Jungle_combine
+[2024.03.01-15.18.46:341][185]LogContentValidation: Display: Validating /Script/Engine.World /Game/GameDev/MatthewG/Jungle_combine.Jungle_combine
+[2024.03.01-15.18.49:008][469]LogSlate: Window 'BP_lever_laserSpawn' being destroyed
+[2024.03.01-15.18.49:012][469]LogSlate: Window 'BP_lever_laserSpawn' being destroyed
+[2024.03.01-15.18.49:017][469]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-15.18.49:017][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.18.49:046][469]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.01-15.18.49:046][469]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-15.18.49:046][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.18.49:071][469]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.01-15.18.49:071][469]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-15.18.49:071][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.18.49:104][469]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.01-15.18.49:104][469]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-15.18.49:104][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.18.49:151][469]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-15.18.49:151][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.18.49:179][469]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.01-15.18.49:179][469]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-15.18.49:179][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-15.18.49:201][469]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.01-15.18.49:201][469]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-15.18.49:201][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
