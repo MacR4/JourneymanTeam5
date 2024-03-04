@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BP_lever_laserSpawner.uasset",
+				"D:/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BP_Lever_RotatorParent.uasset",
+				"D:/JourneymanTeam5/Content/GameDev/MatthewG/Jungle_combine.umap",
+				"D:/JourneymanTeam5/Content/Designers/Zixian/blockout.umap",
 				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/GameDev/MatthewG/Jungle_combine.umap",
 				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BP_Ladder.uasset",
 				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Materials/Mat_RedDef.uasset",
@@ -28,10 +32,7 @@
 				"D:/JourneyMan/JourneymanTeam5/Content/Designers/Kyle/Blueprints/Structs/Conumables.uasset",
 				"D:/JourneyMan/JourneymanTeam5/Content/Designers/Kyle/Blueprints/Interactibles/BP_Parent_Consumables.uasset",
 				"D:/JourneyMan/JourneymanTeam5/Content/Designers/Kyle/Blueprints/DataTables/ConsumablesData.uasset",
-				"D:/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BP_Lever_laserSpawn.uasset",
-				"D:/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BP_lever_laserSpawner.uasset",
-				"D:/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BP_Lever_RotatorParent.uasset",
-				"D:/JourneymanTeam5/Content/GameDev/MatthewG/Jungle_combine.umap"
+				"D:/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BP_Lever_laserSpawn.uasset"
 			]
 		}
 	]
