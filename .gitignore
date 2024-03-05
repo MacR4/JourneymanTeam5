@@ -127,3 +127,7 @@ Saved/Config/CrashReportClient/UECC-Windows-F0CD7A454D3713C3AE4B939F876B9827/Cra
 Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 Saved/Logs/JourneymanTeam5.log
 Intermediate/CachedAssetRegistry.bin
+*.bin
+*.ush
+*.ini
+*.log
