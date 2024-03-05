@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"U:/JourneyMan/JourneymanTeam5/Content/GameDev/MatthewG/LVL_Jungle.umap",
+				"U:/JourneyMan/JourneymanTeam5/Content/__ExternalActors__/Designers/Josh/LI_JunglePart1/A/89/KBXU6UV2839ZQX7XIK1E0X.uasset",
+				"U:/JourneyMan/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_Lever.uasset",
+				"U:/JourneyMan/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_Lever_RotatorParent.uasset",
+				"U:/JourneyMan/JourneymanTeam5/Content/GameDev/MatthewG/_GENERATED/C2571605/Combined_485EEB9F.uasset",
+				"U:/JourneyMan/JourneymanTeam5/Content/GameDev/MatthewG/_GENERATED/C2571605/Combined_FB6E9879.uasset",
 				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/MatthewG/LVL_Jungle.umap"
 			]
 		}
