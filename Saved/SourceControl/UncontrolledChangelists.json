@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Work/Uni Work/Year 2/Semester 2/Journeyman/JourneymanTeam5/Content/Designers/Kyle/CharacterHolder/FBX_animations/SK_Fox_Skeleton.uasset",
+				"E:/Work/Uni Work/Year 2/Semester 2/Journeyman/JourneymanTeam5/Content/Progammers/Kieran/Stable_Sword_Inward_Slash_Anim_Montage.uasset",
+				"E:/Work/Uni Work/Year 2/Semester 2/Journeyman/JourneymanTeam5/Content/Designers/Kyle/BP_Character/BP_Kyles_Character.uasset",
+				"E:/Work/Uni Work/Year 2/Semester 2/Journeyman/JourneymanTeam5/Content/Progammers/Kieran/BP_Platform_Mushroom.uasset",
 				"D:/JourneyMan/JourneymanTeam5/Content/Designers/Kyle/BP_Character/Input/Actions/IA_LeftStickDown.uasset",
 				"D:/JourneyMan/JourneymanTeam5/Content/Designers/Kyle/BP_Character/Input/IMC_Default.uasset",
 				"D:/JourneyMan/JourneymanTeam5/Content/Designers/Kyle/BP_Character/BP_Kyles_Character.uasset",
