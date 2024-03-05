@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/a0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/BP_Kyles_Character.uasset",
+				"C:/Users/a0230371/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_TestDestructor.uasset",
+				"C:/Users/a0230371/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_BreakableWall.uasset",
+				"C:/Users/a0230371/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Levels/Jack-TestLevel.umap",
 				"U:/JourneyMan/JourneymanTeam5/Content/GameDev/MatthewG/LVL_Jungle.umap",
 				"U:/JourneyMan/JourneymanTeam5/Content/__ExternalActors__/Designers/Josh/LI_JunglePart1/A/89/KBXU6UV2839ZQX7XIK1E0X.uasset",
 				"U:/JourneyMan/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_Lever.uasset",
