@@ -7,6 +7,17 @@
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset",
+<<<<<<< Updated upstream
+=======
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_lever_laserSpawner.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/MatthewG/LVL_Jungle.umap",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/Alfie/SM_bridge.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/Alfie/Jungle_blueprints/BP_Bridge.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/Alfie/lasers/BP_laserSpawner.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/Alfie/Jungle_blueprints/BP_plateController.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/Alfie/Jungle_blueprints/BP_pressurePlate.uasset",
+				"C:/Users/c2274607/Documents/GitHub/JourneymanTeam5/Content/Designers/Devon/LVL_MenuInterfaceLevel.umap",
+>>>>>>> Stashed changes
 				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/BP_Kyles_Character.uasset",
 				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/Blueprints/BP_Inventory/WB_Inventory.uasset",
 				"C:/Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/Blueprints/BP_Basic_Enemy/BP_Basic_Enemy.uasset",
