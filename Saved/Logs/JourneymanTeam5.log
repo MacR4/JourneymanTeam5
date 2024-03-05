@@ -1718,3 +1718,108 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.05-09.43.35:971][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 2.29 sec)
 [2024.03.05-09.43.35:979][282]AssetCheck: New page: Asset Save: BP_Kyles_Character
 [2024.03.05-09.43.35:979][282]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Designers/Kyle/BP_Character/BP_Kyles_Character.BP_Kyles_Character
+[2024.03.05-09.44.14:685][793]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.05-09.44.14:697][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.05-09.44.14:697][793]PIE: New page: PIE session: LVL_Jungle (5 Mar 2024, 09:44:14)
+[2024.03.05-09.44.14:697][793]LogPlayLevel: Creating play world package: /Game/GameDev/MatthewG/UEDPIE_0_LVL_Jungle
+[2024.03.05-09.44.15:553][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.855751s)
+[2024.03.05-09.44.15:553][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameDev/MatthewG/LVL_Jungle.LVL_Jungle to /Game/GameDev/MatthewG/UEDPIE_0_LVL_Jungle.LVL_Jungle (0.855792s)
+[2024.03.05-09.44.15:553][793]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.05-09.44.15:553][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.05-09.44.15:554][793]LogAIModule: Creating AISystem for world LVL_Jungle
+[2024.03.05-09.44.15:559][793]LogPlayLevel: PIE: World Init took: (0.006665s)
+[2024.03.05-09.44.15:619][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2024.03.05-09.44.15:624][793]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.03.05-09.44.15:625][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.05-09.44.15:625][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.05-09.44.15:625][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.05-09.44.15:625][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.05-09.44.15:625][793]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.05-09.44.15:625][793]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.05-09.44.15:625][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.05-09.44.15:625][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.05-09.44.15:625][793]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.05-09.44.15:625][793]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.05-09.44.15:625][793]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.05-09.44.15:628][793]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.05-09.44.15:667][793]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.03.05-09.44.15:667][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.05-09.44.15:667][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.05-09.44.15:667][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.05-09.44.15:668][793]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.03.05-09.44.15:668][793]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.03.05-09.44.15:674][793]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.03.05-09.44.15:674][793]LogInit: FAudioDevice initialized with ID 7.
+[2024.03.05-09.44.15:674][793]LogAudio: Display: Audio Device (ID: 7) registered with world 'LVL_Jungle'.
+[2024.03.05-09.44.15:674][793]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.03.05-09.44.15:674][793]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.05-09.44.15:680][793]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.05-09.44.15:857][793]LogWorld: Bringing World /Game/GameDev/MatthewG/UEDPIE_0_LVL_Jungle.LVL_Jungle up for play (max tick rate 0) at 2024.03.05-09.44.15
+[2024.03.05-09.44.15:860][793]LogWorld: Bringing up level for play took: 0.180241
+[2024.03.05-09.44.15:863][793]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.03.05-09.44.15:875][793]LogBlueprintUserMessages: [Jungle_combine_C_12] Hello
+[2024.03.05-09.44.15:876][793]PIE: Server logged in
+[2024.03.05-09.44.15:877][793]PIE: Play in editor total start time 1.18 seconds.
+[2024.03.05-09.44.19:110][935]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.05-09.44.19:110][935]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.03.05-09.44.19:110][935]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.03.05-09.44.33:134][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.05-09.44.33:134][725]LogWorld: BeginTearingDown for /Game/GameDev/MatthewG/UEDPIE_0_LVL_Jungle
+[2024.03.05-09.44.33:137][725]LogWorld: UWorld::CleanupWorld for LVL_Jungle, bSessionEnded=true, bCleanupResources=true
+[2024.03.05-09.44.33:162][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.05-09.44.33:168][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.05-09.44.33:180][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.05-09.44.33:217][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.05-09.44.33:240][725]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.05-09.44.33:240][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.05-09.44.33:244][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.05-09.44.33:330][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2024.03.05-09.44.33:386][726]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.03.05-09.45.20:993][253]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Designers/Kyle/Blueprints/BP_Basic_Enemy/BP_Basic_Enemy.BP_Basic_Enemy
+[2024.03.05-09.45.20:993][253]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.05-09.45.20:993][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.05-09.45.20:994][253]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/General/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2024.03.05-09.45.21:004][253]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/General/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2024.03.05-09.45.21:090][253]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: ================================================
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Total job queries 3,691, among them cache hits 22 (0.60%)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Tracking 3,668 distinct input hashes that result in 2,508 distinct outputs (68.38%)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: RAM used: 60.13 MiB of 1.60 GiB budget. Usage: 3.67%
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Shaders Compiled: 3,668
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Jobs assigned 3,669, completed 3,668 (99.97%)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Average time worker was idle: 2.50 s
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Time job spent in pending queue: average 258.10 s, longest 564.92 s
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Job execution time: average 4.70 s, max 16.15 s
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Job life time (pending + execution): average 262.87 s, max 565.55
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 644.39 s
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Jobs were issued in 569 batches (only local compilation was used), average 6.45 jobs/batch
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Average processing rate: 5.69 jobs/sec
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Total thread time: 1,774.122 s
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Total thread preprocess time: 65.906 s
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Percentage time preprocessing: 3.71%
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Effective parallelization: 2.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.15 sec, max 4.79 sec, min 3.01 sec)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.82 sec, max 6.50 sec, min 1.49 sec)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.62 sec, max 2.94 sec, min 0.92 sec)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 1.18 sec, max 2.23 sec, min 1.00 sec)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display:                                  FDiffuseIndirectCompositePS (compiled    6 times, average 1.15 sec, max 2.09 sec, min 0.28 sec)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.00% of total time (compiled  150 times, average 1.18 sec, max 2.23 sec, min 1.00 sec)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.91% of total time (compiled   96 times, average 0.91 sec, max 1.31 sec, min 0.62 sec)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.46% of total time (compiled  128 times, average 0.62 sec, max 0.96 sec, min 0.36 sec)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.35% of total time (compiled  128 times, average 0.60 sec, max 0.86 sec, min 0.43 sec)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.27% of total time (compiled   96 times, average 0.79 sec, max 1.09 sec, min 0.41 sec)
+[2024.03.05-09.45.21:955][314]LogShaderCompilers: Display: ================================================
+[2024.03.05-09.45.22:286][316]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.05-09.47.08:549][762]BlueprintLog: New page: Compile BP_Basic_Enemy
+[2024.03.05-09.47.08:638][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.03.05-09.47.09:170][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.05-09.47.09:226][801]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.05-09.47.09:351][801]LogSavePackage: Moving output files for package: /Game/Designers/Kyle/Blueprints/BP_Basic_Enemy/BP_Basic_Enemy
+[2024.03.05-09.47.09:354][801]LogSavePackage: Moving '../../../../../../Users/A0230371/Documents/GitHub/JourneymanTeam5/Saved/BP_Basic_Enemy7D13C9544AD3F3A52DBDE794048DCDBE.tmp' to '../../../../../../Users/A0230371/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/Blueprints/BP_Basic_Enemy/BP_Basic_Enemy.uasset'
+[2024.03.05-09.47.09:368][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 2.48 sec)
+[2024.03.05-09.47.09:381][801]AssetCheck: New page: Asset Save: BP_Basic_Enemy
+[2024.03.05-09.47.09:381][801]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Designers/Kyle/Blueprints/BP_Basic_Enemy/BP_Basic_Enemy.BP_Basic_Enemy
