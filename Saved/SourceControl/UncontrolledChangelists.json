@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_SignPost.uasset",
+				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_Shrine.uasset",
+				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_Lever.uasset",
+				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_Doors_Gate.uasset",
+				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_Doors.uasset",
+				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_DamagingVolume.uasset",
+				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_CoinWell.uasset",
+				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_CameraRotVol.uasset",
+				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_Teleporter.uasset",
 				"U:/JourneyMan/JourneymanTeam5/Content/Designers/Kyle/Blueprints/BP_Basic_Enemy/BP_Basic_Enemy.uasset",
 				"U:/JourneyMan/JourneymanTeam5/Content/Designers/Kyle/Blueprints/BP_Basic_Enemy/W_UI/WB_HealthBar.uasset"
 			]
