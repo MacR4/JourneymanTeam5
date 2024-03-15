@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"U:/Year 2/Semester 2/Journeyman/JourneymanTeam5/Content/Designers/Kyle/BP_Character/BP_Kyles_Character.uasset",
+				"U:/Year 2/Semester 2/Journeyman/JourneymanTeam5/Content/Progammers/Tom/Blueprints/Inventory/Item_Data_Component.uasset",
 				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/MatthewG/LVL_Jungle.umap",
 				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/Alfie/lasers/BP_laserSpawner.uasset",
 				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_Ladder.uasset",
