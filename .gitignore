@@ -41,7 +41,7 @@
 *.VC.db
 *.VC.opendb
 **.ini
-/EditorPerProjectUserSettings.ini
+
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -67,3 +67,5 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+*/EditorPerProjectUserSettings.ini
