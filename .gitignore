@@ -41,7 +41,7 @@
 *.VC.db
 *.VC.opendb
 **.ini
-[Uu]serSettings/
+/EditorPerProjectUserSettings.ini
 
 # Precompiled Assets
 SourceArt/**/*.png
