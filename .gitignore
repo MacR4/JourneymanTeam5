@@ -41,6 +41,7 @@
 *.VC.db
 *.VC.opendb
 **.ini
+**/config
 
 # Precompiled Assets
 SourceArt/**/*.png
