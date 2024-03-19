@@ -68,5 +68,7 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-/JourneymanTeam5/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+/Saved/Config/WindowsEditor
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 /Saved/Config/WindowsEditor
