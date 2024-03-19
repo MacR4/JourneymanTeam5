@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/Alfie/Enemies/monkeys/animations/BS_Monkey.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/Alfie/Enemies/BP_Basic_Enemy_Monkey.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/Alfie/Enemies/monkeys/animations/Monkey_Anim_Team5_Run_adj.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/Designers/Sam/UI/Runes/BP_Popups/BP_Rune_PopUp10.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/MatthewG/LVL_Jungle.umap",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/Designers/Sam/UI/Runes/BP_Popups/BP_Rune_PopUp6.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/Designers/Sam/UI/Runes/BP_Popups/BP_Rune_PopUp7.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/Designers/Sam/UI/Runes/BP_Popups/BP_Rune_PopUp8.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/Designers/Sam/UI/Runes/BP_Popups/BP_Rune_PopUp9.uasset",
+				"C:/Users/C2207339/Documents/GitHub/JourneymanTeam5/Content/GameDev/Alfie/Enemies/monkeys/animations/Monkey_Anim_Team5_Run_adj.uasset",
 				"U:/JourneyMan/JourneymanTeam5/Content/Designers/Kyle/BP_Character/BP_Kyles_Character.uasset"
 			]
 		}
