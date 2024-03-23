@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/JourneyMan/JourneymanTeam5/Content/Designers/Kyle/BP_Character/BP_Kyles_Character.uasset",
+				"D:/JourneyMan/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_BreakableWall.uasset",
+				"D:/JourneyMan/JourneymanTeam5/Content/GameDev/MatthewG/LVL_Jungle.umap",
 				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Blueprints/BPs/BP_Telescope.uasset",
 				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Progammers/Jack/Levels/Jack-TestLevel.umap",
 				"C:/Users/jacka/OneDrive - Teesside University/Documents/GitHub/JourneymanTeam5/Content/Designers/Kyle/BP_Character/BP_Kyles_Character.uasset",
